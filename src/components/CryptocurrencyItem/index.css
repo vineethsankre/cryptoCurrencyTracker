@@ -1,0 +1,20 @@
+.each-row {
+  background-color: #092e33;
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  justify-content: space-between;
+}
+.currency-logo {
+  width: 20px;
+  height: 20px;
+}
+.currency-text {
+  color: #fff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  align-self: flex-end;
+}
